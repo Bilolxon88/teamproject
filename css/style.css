@@ -6,3 +6,32 @@
   list-style: none;
 }
 
+
+
+
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background-color: blueviolet;
+}
+.hero_title{
+    color: white;
+}
+
+.hero__text-box{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: white important!;
+    gap: 40px;
+
+}
+
+.hero_icon{
+    color: white;
+    font-size: 20px;
+}
+
